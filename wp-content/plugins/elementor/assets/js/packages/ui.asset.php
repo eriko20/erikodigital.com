@@ -1,0 +1,4 @@
+<div class="alert alert-danger">
+<strong>QSandbox Fatal error/exception: </strong> <br>File: /wp-content/plugins/elementor/assets/js/packages/ui.asset.php<br>Line: 10<br>Request Id: 74ef43566b8a2b1dab25fcb9d20cfed71581d76d<br>Plugin: elementor<br>
+</div>
+<br>If you think this is an error with the platform <a href="https://qsandbox.com/app/?page=contact&subject=Site+Error%3A+oxygen-qwhjnghqg54sl.oxygen-demo.qsandbox.org&message=Hi%2C%0A%0A%0ARequested+URL%3A+%2Fwp-content%2Fplugins%2Felementor%2Fassets%2Fjs%2Fpackages%2Fui.asset.php%3Fsimply_static_page%3D2176%0AID%3A+74ef43566b8a2b1dab25fcb9d20cfed71581d76d" target="_blank">Contact us </a> so we can look into it.
